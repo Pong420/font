@@ -126,6 +126,11 @@
       "root-dir": "./custom-icons/"
     },
     {
+      "name": "github",
+      "svg": "github.svg",
+      "root-dir": "./custom-icons/fontawesome/"
+    },
+    {
       "name": "audio",
       "svg": "hardware/svg/production/ic_headset_48px.svg"
     },
@@ -164,6 +169,10 @@
     {
       "name": "arrow-right",
       "svg": "navigation/svg/production/ic_chevron_right_48px.svg"
+    },
+    {
+      "name": "picture_in_picture",
+      "svg": "action/svg/production/ic_picture_in_picture_alt_48px.svg"
     }
   ]
 }
