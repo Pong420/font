@@ -155,6 +155,10 @@
       "svg": "av/svg/production/ic_repeat_48px.svg"
     },
     {
+      "name": "loop",
+      "svg": "av/svg/production/ic_loop_48px.svg"
+    },
+    {
       "name": "warning",
       "svg": "alert/svg/production/ic_warning_48px.svg"
     },
