@@ -177,6 +177,10 @@
     {
       "name": "picture-in-picture",
       "svg": "action/svg/production/ic_picture_in_picture_alt_48px.svg"
+    },
+    {
+      "name": "audiotrack",
+      "svg": "image/svg/production/ic_audiotrack_48px.svg"
     }
   ]
 }
